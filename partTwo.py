@@ -1,9 +1,11 @@
 import math  
 
+
 def main():
-#TO DO  
+    s = int (input('--> ')) 
+  
 
 def pythag(A,B):
-#TO DO  
+    #TO DO  
 
 main()

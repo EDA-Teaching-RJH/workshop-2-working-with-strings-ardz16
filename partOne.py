@@ -3,7 +3,8 @@ def main():
     myFunction(slow)
 
 def myFunction(text):
-  #Your code goes here.
+ drake = text.replace("", '...')
+ print (drake)
+
 
 main()
-a=
