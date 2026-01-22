@@ -6,3 +6,4 @@ def myFunction(text):
   #Your code goes here.
 
 main()
+a=
